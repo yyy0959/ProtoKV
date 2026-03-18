@@ -20,7 +20,3 @@
 The provided code uses hooks to capture the `key_states` efficiently.
 
 ---
-
-### Code Availability Statement
-
-We provide the code necessary for researching SAT properties. For the ProtoKV experiment code on LongBench and Ruler, the modules are relatively extensive and are currently being organized. We commit to open-sourcing this code upon the acceptance of our associated paper.
